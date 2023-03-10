@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">Computer science student and Application Developer, I worked as freelancer in (2020-2021), I've an experience with Python in machine learning path and AI. started learning Application Development in the end of 2021 with Dart and Flutter framework.</h3>
+<h3 align="center">As a computer science student with a background in graphic design and experience in application development, I bring a unique blend of technical and creative skills to the table. With experience in freelance graphic design (2020-2021), I have honed my abilities in visual communication and design. Additionally, I have strong skills in Python, specifically in the areas of machine learning and artificial intelligence. To complement my technical background, I have recently acquired knowledge in application development and am proficient in Dart and the Flutter framework.</h3>
 
 - 🌱 I’m currently learning **Flutter Framework**
 
