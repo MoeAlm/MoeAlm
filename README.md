@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">As a computer science student with a background in graphic design and experience in application development, I bring a unique blend of technical and creative skills to the table. With experience in freelance graphic design (2020-2021), I have honed my abilities in visual communication and design. Additionally, I have strong skills in Python, specifically in the areas of machine learning and artificial intelligence. To complement my technical background, I have recently acquired knowledge in application development and am proficient in Dart and the Flutter framework.</h3>
+<h3 align="center">As a computer science student with a background in graphic design and experience in application development, I bring a unique blend of technical and creative skills to the table. With experience in freelance graphic design (2020-2021), I have honed my abilities in visual communication and design. Additionally, I have strong skills in Python, specifically in the areas of machine learning and artificial intelligence. To complement my technical background, I have recently acquired knowledge in application development and am proficient in Dart and the Flutter framework.
+
+I have a strong interest in open-source development and collaboration, and I am excited to contribute to the community through Github. On my Github profile, you can find some of my personal projects that demonstrate my skills in both design and development. I have created several Flutter apps, including a weather app and a task manager app, that showcase my proficiency in creating beautiful and functional user interfaces.
+
+I am always looking for new opportunities to collaborate and learn from other developers, so feel free to reach out to me on Github or LinkedIn. Let's build something great together!</h3>
 
 - 🌱 I’m currently learning **Flutter Framework**
 
