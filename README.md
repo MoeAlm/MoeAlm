@@ -7,7 +7,7 @@ I am always looking for new opportunities to collaborate and learn from other de
 
 - 🌱 I’m currently learning **Flutter Framework**
 
-- 📫 How to reach me **almazwzy8@gamil.com**
+- 📫 How to reach me **mohammed.almazouzi@gamil.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gy5zmpFQ1C0c1HomaZLL2mvgqPe-NuxP/view?usp=share_link](https://drive.google.com/file/d/1gy5zmpFQ1C0c1HomaZLL2mvgqPe-NuxP/view?usp=share_link)
 
