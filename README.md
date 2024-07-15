@@ -11,7 +11,7 @@ I am always looking for new opportunities to collaborate and learn from other de
 
 - 📫 How to reach me **mohammed.almazouzi@gamil.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1STj3s2ict7lj0KgPMnUqC1vnFM3uqBro/view?usp=drive_link)](https://drive.google.com/file/d/1STj3s2ict7lj0KgPMnUqC1vnFM3uqBro/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1STj3s2ict7lj0KgPMnUqC1vnFM3uqBro/view?usp=drive_link](https://drive.google.com/file/d/1STj3s2ict7lj0KgPMnUqC1vnFM3uqBro/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
